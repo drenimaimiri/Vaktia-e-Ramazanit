@@ -12,3 +12,12 @@
 .prayer-table th {
     background-color: #f2f2f2;
 }
+
+
+
+#header{
+    color: black;
+    text-align: center;
+    padding: 20px;
+    font-size: 24px;
+}
